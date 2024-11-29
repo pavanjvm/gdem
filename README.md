@@ -115,4 +115,4 @@ Forensic Gait Analysis is a tool that compares two video footages, one from a cr
 ## Example
 
 After completing the steps above, the `gait-similarity.py` script will output a similarity score and visualizations to help identify if the two footages depict the same person based on gait analysis.
-# gdem
+
